@@ -158,17 +158,3 @@ Author
 Arjun Prakash Verma
 
 If this repo helped you organize better AI website builds, give it a star.
-
-
-1. Replace `Arjun Prakash Verma` with your actual name or agency name.
-2. Rename the files in the README if your GitHub filenames are slightly different.
-3. If you want it to look more premium, I’d use your brand name as the repo title instead of `AI Website Planning Docs`.
-
-Short checklist:
-- Match the README file names to the exact repo file names
-- Add your brand name
-- Add license if needed
-- Push `README.md`
-
-If you want a stronger version, use this title instead:
-`# Website Planning System for AI Builders`
